@@ -1,7 +1,9 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Ganesh Shinde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshshinde-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshshinde-2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gani_shinde" target="blank"><img src="https://img.shields.io/twitter/follow/gani_shinde?logo=twitter&style=for-the-badge" alt="gani_shinde" /></a> </p>
@@ -32,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshshinde-2003&show_icons=true&locale=en" alt="ganeshshinde-2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshshinde-2003&" alt="ganeshshinde-2003" /></p>
+
