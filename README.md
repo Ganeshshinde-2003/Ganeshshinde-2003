@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshshinde-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshshinde-2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshshinde-2003" alt="ganeshshinde-2003" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gani_shinde" target="blank"><img src="https://img.shields.io/twitter/follow/gani_shinde?logo=twitter&style=for-the-badge" alt="gani_shinde" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, Angular**
