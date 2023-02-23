@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Angular**
 
-- 👨‍💻 All of my projects are available at [https://peotofolio.web.app/](https://peotofolio.web.app/)
+- 👨‍💻 Over my self-learning adventure, I have created a lot of projects and will continue to do so. In my portfolio website, you may see every one of those projects. [https://peotofolio.web.app/](https://peotofolio.web.app/)
 
 - 💬 Ask me about **ReactJs, JavaScript**
 
