@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gani_shinde" target="blank"><img src="https://img.shields.io/twitter/follow/gani_shinde?logo=twitter&style=for-the-badge" alt="gani_shinde" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, Angular, Java**
+- 🌱 I’m currently learning **Angular, Java, Flutter**
 
 - 👨‍💻 Over my self-learning adventure, I have created a lot of projects and will continue to do so. In my portfolio website, you may see every one of those projects. [https://peotofolio.web.app/](https://peotofolio.web.app/)
 
