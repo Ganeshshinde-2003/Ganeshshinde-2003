@@ -1,6 +1,6 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Ganesh Shinde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
