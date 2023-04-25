@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/gani_shinde" target="blank"><img src="https://img.shields.io/twitter/follow/gani_shinde?logo=twitter&style=for-the-badge" alt="gani_shinde" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Flutter**
+- 🌱 I’m currently learning **BackEnd**
 
 - 👨‍💻 Over my self-learning adventure, I have created a lot of projects and will continue to do so. In my portfolio website, you may see every one of those projects. [https://peotofolio.web.app/](https://peotofolio.web.app/)
 
-- 💬 Ask me about **ReactJs, JavaScript,Flutter, Dart**
+- 💬 Ask me about **ReactJs, JavaScript, Flutter, Dart**
 
 - 📫 How to reach me **sindheganesh2004@gmail.com**
 
