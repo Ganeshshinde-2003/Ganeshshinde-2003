@@ -1,4 +1,5 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+![odm0a7nw5xyjmt2ebske](https://user-images.githubusercontent.com/115361691/234788178-d575f698-9722-4682-9227-d3507c7bb7cd.png)
+
 
 <h1 align="center">Hi 👋, I'm Ganesh Shinde</h1>
 <h3 align="center">A passionate Web and App developer from India</h3>
