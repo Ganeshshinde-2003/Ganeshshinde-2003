@@ -1,4 +1,4 @@
-![Web-Developer-Header](https://user-images.githubusercontent.com/115361691/234788972-7ad0f110-5524-49b4-bc26-4d8c3b020b86.png)
+![Web-Developer-Header]([https://user-images.githubusercontent.com/115361691/234788972-7ad0f110-5524-49b4-bc26-4d8c3b020b86.png](https://i.pinimg.com/originals/ee/70/0c/ee700cf9a8a814ad0995772a1b1d18da.png))
 
 <h1 align="center">Hi 👋, I'm Ganesh Shinde</h1>
 <h3 align="center">A passionate Web and App developer from India</h3>
