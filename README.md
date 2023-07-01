@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **BackEnd**
 
-- 👨‍💻 All of my projects are available at [https://peotofolio.web.app/](https://peotofolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://peotofolio.web.app/](https://my-portfolio-app-sooty.vercel.app/)
 
 - 💬 Ask me about **ReactJs, JavaScript, Flutter, Dart**
 
