@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **BackEnd (NodeJS, MongoDB)**
 
-- 👨‍💻 All of my projects are available at [MyPortfolio](https://my-portfolio-app-sooty.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://my-portfolio-app-sooty.vercel.app/)
 
-- 📝 I regularly write articles on [MyBlogs](https://blogs-by-ganesh-shinde.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://blogs-by-ganesh-shinde.hashnode.dev/)
 
 - 💬 Ask me about **Flutter, ReactJS, JavaScript, NextJS & Firebase**
 
