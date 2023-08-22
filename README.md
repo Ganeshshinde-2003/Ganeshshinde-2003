@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [MyResume](https://drive.google.com/drive/folders/1pzchcF2CCVue8axQ1cfp2xM5xg1O9dy5)
 
-- ⚡ Fun fact **I think I am funny 😉**
+- ⚡ Fun fact I speak fluent binary - 01100110 01110101 01101110!
 
 
 <h3 align="left">Connect with me:</h3>
