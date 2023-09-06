@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [MyResume](https://drive.google.com/drive/folders/1pzchcF2CCVue8axQ1cfp2xM5xg1O9dy5)
 
--  Know more about me [AllLinks](https://ganeshshinde.bio.link/)
+- 😍 Know more about me [AllLinks](https://ganeshshinde.bio.link/)
 
 - ⚡ Fun fact I speak fluent binary - 01100110 01110101 01101110!
 
