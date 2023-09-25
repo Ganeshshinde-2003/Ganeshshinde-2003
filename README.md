@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sindheganesh2004@gmail.com**
 
-- 📄 Know about my experiences in [my resume](https://drive.google.com/drive/folders/1pzchcF2CCVue8axQ1cfp2xM5xg1O9dy5)
+- 📄 Know about my experiences in [My Resume](https://drive.google.com/drive/folders/1pzchcF2CCVue8axQ1cfp2xM5xg1O9dy5)
 
 - 😍 Know more about me [AllLinks](https://ganeshshinde.bio.link/)
 
