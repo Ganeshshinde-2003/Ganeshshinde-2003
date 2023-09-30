@@ -1,6 +1,6 @@
 ![Web-Developer-Header](https://e0.pxfuel.com/wallpapers/280/804/desktop-wallpaper-game-development-game-development-neat.jpg)
 
-<h1 align="center">Hi 👋, I'm Ganesh Shinde</h1>
+<h1 align="center">Hii 👋, I'm Ganesh Shinde</h1>
 <h3 align="center">A passionate Web & Mobile App Developer from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
