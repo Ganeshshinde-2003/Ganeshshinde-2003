@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/gani_shinde" target="blank"><img src="https://img.shields.io/twitter/follow/gani_shinde?logo=twitter&style=for-the-badge" alt="gani_shinde" /></a> </p>
 
-- 🔭 I’m currently working on **WEB3.0**
+- 🔭 I’m currently working on **WEB 3.0**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-app-sooty.vercel.app/)
 
