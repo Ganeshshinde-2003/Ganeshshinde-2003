@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://blogs-by-ganesh-shinde.hashnode.dev/)
 
-- 💬 Ask me about **Flutter, ReactJS, JavaScript,NodeJS, NextJS & Firebase**
+- 💬 Ask me about **Flutter, ReactJS, JavaScript, NodeJS, NextJS & Firebase**
 
 - 📫 How to reach me **sindheganesh2004@gmail.com**
 
