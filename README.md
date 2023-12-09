@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **WEB 3.0**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-gs03.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.shindeganesh.tech/)
 
 - 📝 I regularly write articles on [Hashnode](https://blogs-by-ganesh-shinde.hashnode.dev/)
 
