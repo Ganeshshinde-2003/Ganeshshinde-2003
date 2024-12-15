@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Generative AI**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.shindeganesh.tech/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-gs03.vercel.app/)
 
 - 📝 I regularly write articles on [Hashnode](https://blogs-by-ganesh-shinde.hashnode.dev/)
 
